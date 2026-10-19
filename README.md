@@ -1,2 +1,2 @@
 #Оно тебе надо
-учебный проект по верстке сайта.
+https://github.com/sashakorchagina/ono-tebe-nado-ad
